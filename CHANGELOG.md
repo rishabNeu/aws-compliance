@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/rishabNeu/aws-compliance/compare/v1.0.1...v1.0.2) (2024-11-28)
+
+
+### Bug Fixes
+
+* removing permissions ([0cdb802](https://github.com/rishabNeu/aws-compliance/commit/0cdb8028a1686a70d3f25ed5390e8fab2e965690))
+
 ## [1.0.1](https://github.com/rishabNeu/aws-compliance/compare/v1.0.0...v1.0.1) (2024-11-28)
 
 
