@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/rishabNeu/aws-compliance/compare/v1.0.2...v1.0.3) (2024-11-28)
+
+
+### Bug Fixes
+
+* cleaning the release.yml file ([fa99571](https://github.com/rishabNeu/aws-compliance/commit/fa99571394480f2f2d9000bdcf7e3ef92dfddaae))
+
 ## [1.0.2](https://github.com/rishabNeu/aws-compliance/compare/v1.0.1...v1.0.2) (2024-11-28)
 
 
