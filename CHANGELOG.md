@@ -1,3 +1,10 @@
+## [1.0.5](https://github.com/rishabNeu/aws-compliance/compare/v1.0.4...v1.0.5) (2024-11-28)
+
+
+### Bug Fixes
+
+* update releaserc file ([36a7d55](https://github.com/rishabNeu/aws-compliance/commit/36a7d55690315b9ce767cf4c392af517f92b0fe9))
+
 ## [1.0.4](https://github.com/rishabNeu/aws-compliance/compare/v1.0.3...v1.0.4) (2024-11-28)
 
 
