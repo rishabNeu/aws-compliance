@@ -8,4 +8,4 @@ AWS compliance checker in regards to the resources that are created by devs/ peo
 #### 🖥️ Lambda
 
 
-#### ⏰ Cloudwatch
+#### ⏰ Cloudwatch alerts and rules
