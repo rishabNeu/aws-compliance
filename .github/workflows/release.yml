@@ -10,6 +10,10 @@ on:
 
 jobs:
   main:
+    permissions:
+        contents: write
+        issues: write
+        pull-requests: write
     runs-on: ubuntu-latest
     environment:
       name: Semver #your environment name
