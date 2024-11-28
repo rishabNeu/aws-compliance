@@ -6,6 +6,10 @@ AWS compliance checker in regards to the resources that are created by devs/ peo
 ### 🏗️ Infrastructure using Terraform (IaC)
 
 #### 🖥️ Lambda
-
+- Modifies any of the volume type `gp3` if `gp3` is not used
+- Makes sure everything is in compliance
 
 #### ⏰ Cloudwatch alerts and rules
+- Cloudwatch rules/ events invoke the Lambda function
+- We need to add policy to cloudwatch to invoke the lambda function(Target)
+
