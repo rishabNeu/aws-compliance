@@ -2,6 +2,7 @@
     "branches": [
         "main"
     ],
+    "repositoryUrl": "https://github.com/rishabNeu/aws-compliance.git",
     "plugins": [
         "@semantic-release/commit-analyzer",
         "@semantic-release/release-notes-generator",
