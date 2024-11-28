@@ -14,3 +14,4 @@ AWS compliance checker in regards to the resources that are created by devs/ peo
 - Cloudwatch rules/ events invoke the Lambda function
 - We need to add policy to cloudwatch to invoke the lambda function(Target)
 
+#### Can refer to add sematic versioning to this blog: [semvar blog](https://dev.to/sahanonp/how-to-setup-semantic-release-with-github-actions-31f3)
