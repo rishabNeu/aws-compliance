@@ -16,6 +16,6 @@ AWS compliance checker in regards to the resources that are created by devs/ peo
 
 #### Architecture
 
-![Architecture](architcture.png)
+![Architecture](./architecture.png)
 
 #### Can refer to add sematic versioning to this blog: [semvar blog](https://dev.to/sahanonp/how-to-setup-semantic-release-with-github-actions-31f3)
