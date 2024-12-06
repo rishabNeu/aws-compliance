@@ -1,3 +1,10 @@
+## [1.0.7](https://github.com/rishabNeu/aws-compliance/compare/v1.0.6...v1.0.7) (2024-12-06)
+
+
+### Bug Fixes
+
+* adding architecture diagram ([2393f4c](https://github.com/rishabNeu/aws-compliance/commit/2393f4c5f91b0867a172392bb4609bd1aa8a38bd))
+
 ## [1.0.6](https://github.com/rishabNeu/aws-compliance/compare/v1.0.5...v1.0.6) (2024-11-28)
 
 
